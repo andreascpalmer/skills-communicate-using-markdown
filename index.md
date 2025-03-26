@@ -4,3 +4,6 @@
 ```
 let javas = ok_at_best;
 ```
+- [x] learn js
+- [x] learn cloud
+- [ ] Generate a multi million dollar startup in my basement
